@@ -103,7 +103,8 @@ non_ercot <- c("El Paso",
                "San Jacinto", 
                "Liberty", 
                "Jefferson", 
-               "Orange")
+               "Orange",
+               "Lubbock")
 
 
 #create dataset with only ercot data:
